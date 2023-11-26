@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DRWAW
+  m_Shader: {fileID: 4800000, guid: 7bd81748af2c4c241827be730bd95727, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _KEYWORD0_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 3d6171e2bc3fee748878ea992311c48d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _Float0: 1
+    - _Float1: -7.98
+    - _Float11: 285.53
+    - _Float2: -0.04
+    - _Float5: 1.03
+    - _Float6: 2.1
+    - _Float8: 0.17
+    - _Float9: 0.03
+    - _Keyword0: 1
+    - _MatCapScale1: 1
+    - _distance: -1.9
+    - _f: 4.47
+    - _radio: 1.07
+    - _ttt: 0
+    m_Colors:
+    - _Color0: {r: 3.688605, g: 2.4376822, b: 0, a: 0}
+    - _Color1: {r: 1.8443027, g: 1.8443027, b: 1.8443027, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Vector1: {r: -12.81, g: 3.6, b: 0, a: 0}
+    - _Vector2: {r: 2.35, g: -0.04, b: 0, a: 0}
+  m_BuildTextureStacks: []
